@@ -64,6 +64,9 @@ func _ready() -> void:
 	rng.seed = 2026
 	get_window().title = "Toddler Island"
 	get_tree().auto_accept_quit = false
+	# the downloadable build opens full screen, like the launcher does (F11 switches back)
+	if OS.has_feature("template") and args.is_empty():
+		get_window().mode = Window.MODE_FULLSCREEN
 	if get_window().mode == Window.MODE_FULLSCREEN:
 		Input.mouse_mode = Input.MOUSE_MODE_HIDDEN
 	no_sway = args.has("--no-sway")

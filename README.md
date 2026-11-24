@@ -79,10 +79,14 @@ over a little music-box tune, and a photo of the moment is saved for us to keep.
 
 ## Play it
 
-1. Install [Godot 4.7](https://godotengine.org/download) (the standard version; free and small).
-2. Download this repository (green **Code** button → **Download ZIP**) and unzip it.
-3. Double-click **`Play Toddler Island.bat`** (Windows), or open `game/project.godot` in Godot and press Play.
-   The first start takes a few minutes while Godot imports the models.
+**Windows:** download **[ToddlerIsland-Windows.zip](https://github.com/mert-atalay/toddler-island/releases/latest/download/ToddlerIsland-Windows.zip)**
+(237 MB), unzip it and double-click `ToddlerIsland.exe`. Nothing to install. Windows may warn that
+the app isn't from a known publisher; click **More info** → **Run anyway**.
+
+**From the source (any computer):** install [Godot 4.7](https://godotengine.org/download), download this
+repository (green **Code** button → **Download ZIP**), then double-click **`Play Toddler Island.bat`**
+or open `game/project.godot` in Godot and press Play. The first start takes a few minutes while Godot
+imports the models.
 
 An Xbox controller is the best way to play; a keyboard works too. All the controls are in the
 [parent's handbook](docs/HANDBOOK.md).
