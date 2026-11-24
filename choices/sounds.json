@@ -1,0 +1,697 @@
+{
+  "savedAt": "2026-11-14T12:44:48.813Z",
+  "kept": {
+    "cow": [
+      {
+        "title": "Mudchute cow 1.ogg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Mudchute_cow_1.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "mime": "application/ogg",
+        "mediatype": "AUDIO",
+        "seconds": 2.1942857142857144,
+        "licence": "CC BY-SA 3.0",
+        "author": "Secretlondon",
+        "page": "https://commons.wikimedia.org/wiki/File:Mudchute_cow_1.ogg",
+        "fromPlan": true,
+        "file": "https://upload.wikimedia.org/wikipedia/commons/4/48/Mudchute_cow_1.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "start": 0,
+        "end": 2.19,
+        "auto": true
+      },
+      {
+        "title": "Single Cow Moo.ogg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Single_Cow_Moo.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "mime": "application/ogg",
+        "mediatype": "AUDIO",
+        "seconds": 3.768,
+        "licence": "CC BY-SA 4.0",
+        "author": "MichaeltheFox8621",
+        "page": "https://commons.wikimedia.org/wiki/File:Single_Cow_Moo.ogg",
+        "fromPlan": true,
+        "file": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Single_Cow_Moo.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "start": 0.94,
+        "end": 2.66,
+        "auto": true
+      }
+    ],
+    "horse": [
+      {
+        "title": "Mares-Prefer-the-Voices-of-Highly-Fertile-Stallions-pone.0118468.s004.oga",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Mares-Prefer-the-Voices-of-Highly-Fertile-Stallions-pone.0118468.s004.oga?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "mime": "application/ogg",
+        "mediatype": "AUDIO",
+        "seconds": 3.356734693877551,
+        "licence": "CC BY 4.0",
+        "author": "Lemasson A, Remeuf K, Trabalon M, Cuir F, Hausberger M",
+        "page": "https://commons.wikimedia.org/wiki/File:Mares-Prefer-the-Voices-of-Highly-Fertile-Stallions-pone.0118468.s004.oga",
+        "fromPlan": true,
+        "file": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Mares-Prefer-the-Voices-of-Highly-Fertile-Stallions-pone.0118468.s004.oga?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "start": 0.72,
+        "end": 2.76,
+        "auto": true
+      },
+      {
+        "title": "Six Horses Galloping By.ogg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Six_Horses_Galloping_By.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "mime": "application/ogg",
+        "mediatype": "AUDIO",
+        "seconds": 25.152,
+        "licence": "CC0",
+        "author": "Freesound Community https://pixabay.com/users/freesound_community-46691455/\n\nBruno Auzet https://pixabay.com/sound-effec",
+        "page": "https://commons.wikimedia.org/wiki/File:Six_Horses_Galloping_By.ogg",
+        "fromPlan": false,
+        "file": "https://upload.wikimedia.org/wikipedia/commons/9/96/Six_Horses_Galloping_By.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "start": 6.06,
+        "end": 10.06,
+        "auto": true
+      }
+    ],
+    "donkey": [
+      {
+        "title": "Домашний Осёл, Киприотский.ogg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B8%D0%B9_%D0%9E%D1%81%D1%91%D0%BB%2C_%D0%9A%D0%B8%D0%BF%D1%80%D0%B8%D0%BE%D1%82%D1%81%D0%BA%D0%B8%D0%B9.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "mime": "application/ogg",
+        "mediatype": "AUDIO",
+        "seconds": 14.043375,
+        "licence": "CC BY-SA 3.0",
+        "author": "Warper up",
+        "page": "https://commons.wikimedia.org/wiki/File:%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B8%D0%B9_%D0%9E%D1%81%D1%91%D0%BB%2C_%D0%9A%D0%B8%D0%BF%D1%80%D0%B8%D0%BE%D1%82%D1%81%D0%BA%D0%B8%D0%B9.ogg",
+        "fromPlan": true,
+        "file": "https://upload.wikimedia.org/wikipedia/commons/6/6d/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B8%D0%B9_%D0%9E%D1%81%D1%91%D0%BB%2C_%D0%9A%D0%B8%D0%BF%D1%80%D0%B8%D0%BE%D1%82%D1%81%D0%BA%D0%B8%D0%B9.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "start": 5.26,
+        "end": 7.4,
+        "auto": true
+      }
+    ],
+    "sheep": [
+      {
+        "title": "Sheep bleating.ogg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Sheep_bleating.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "mime": "application/ogg",
+        "mediatype": "AUDIO",
+        "seconds": 8.18639455782313,
+        "licence": "Public domain",
+        "author": "earthcalling",
+        "page": "https://commons.wikimedia.org/wiki/File:Sheep_bleating.ogg",
+        "fromPlan": true,
+        "file": "https://upload.wikimedia.org/wikipedia/commons/1/13/Sheep_bleating.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "start": 5.56,
+        "end": 7.3,
+        "auto": true
+      }
+    ],
+    "pig": [
+      {
+        "title": "Mudchute pig 1.ogg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Mudchute_pig_1.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "mime": "application/ogg",
+        "mediatype": "AUDIO",
+        "seconds": 0.2917006802721088,
+        "licence": "CC BY-SA 3.0",
+        "author": "Secretlondon",
+        "page": "https://commons.wikimedia.org/wiki/File:Mudchute_pig_1.ogg",
+        "fromPlan": true,
+        "file": "https://upload.wikimedia.org/wikipedia/commons/7/73/Mudchute_pig_1.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "start": 0,
+        "end": 0.36,
+        "auto": true
+      },
+      {
+        "title": "Mudchute pig 2.ogg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Mudchute_pig_2.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "mime": "application/ogg",
+        "mediatype": "AUDIO",
+        "seconds": 0.33378684807256237,
+        "licence": "CC BY-SA 3.0",
+        "author": "Secretlondon",
+        "page": "https://commons.wikimedia.org/wiki/File:Mudchute_pig_2.ogg",
+        "fromPlan": false,
+        "file": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Mudchute_pig_2.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "start": 0,
+        "end": 0.33,
+        "auto": true
+      },
+      {
+        "title": "Mudchute pig 3.ogg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Mudchute_pig_3.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "mime": "application/ogg",
+        "mediatype": "AUDIO",
+        "seconds": 0.20317460317460317,
+        "licence": "CC BY-SA 3.0",
+        "author": "Secretlondon",
+        "page": "https://commons.wikimedia.org/wiki/File:Mudchute_pig_3.ogg",
+        "fromPlan": false,
+        "file": "https://upload.wikimedia.org/wikipedia/commons/6/65/Mudchute_pig_3.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "start": 0,
+        "end": 0.2,
+        "auto": true
+      }
+    ],
+    "goat": [],
+    "rooster": [],
+    "hens": [
+      {
+        "title": "Chickens demanding food.ogg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Chickens_demanding_food.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "mime": "application/ogg",
+        "mediatype": "AUDIO",
+        "seconds": 11.23265306122449,
+        "licence": "Public domain",
+        "author": "alys",
+        "page": "https://commons.wikimedia.org/wiki/File:Chickens_demanding_food.ogg",
+        "fromPlan": true,
+        "file": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Chickens_demanding_food.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "start": 2.12,
+        "end": 2.72,
+        "auto": true
+      },
+      {
+        "title": "Hens leaving coop.ogg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Hens_leaving_coop.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "mime": "application/ogg",
+        "mediatype": "AUDIO",
+        "seconds": 8.724897959183673,
+        "licence": "Public domain",
+        "author": "alys",
+        "page": "https://commons.wikimedia.org/wiki/File:Hens_leaving_coop.ogg",
+        "fromPlan": true,
+        "file": "https://upload.wikimedia.org/wikipedia/commons/0/00/Hens_leaving_coop.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "start": 7.56,
+        "end": 8.38,
+        "auto": true
+      }
+    ],
+    "dog": [
+      {
+        "title": "Barking of a dog.ogg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Barking_of_a_dog.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "mime": "application/ogg",
+        "mediatype": "AUDIO",
+        "seconds": 2.610204081632653,
+        "licence": "CC BY-SA 3.0",
+        "author": "Amada44",
+        "page": "https://commons.wikimedia.org/wiki/File:Barking_of_a_dog.ogg",
+        "fromPlan": true,
+        "file": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Barking_of_a_dog.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "start": 0,
+        "end": 2.61,
+        "auto": true
+      },
+      {
+        "title": "Barking of a dog 2.ogg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Barking_of_a_dog_2.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "mime": "application/ogg",
+        "mediatype": "AUDIO",
+        "seconds": 4.01984126984127,
+        "licence": "CC BY-SA 3.0",
+        "author": "Amada44",
+        "page": "https://commons.wikimedia.org/wiki/File:Barking_of_a_dog_2.ogg",
+        "fromPlan": false,
+        "file": "https://upload.wikimedia.org/wikipedia/commons/5/58/Barking_of_a_dog_2.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "start": 0,
+        "end": 0.5,
+        "auto": true
+      },
+      {
+        "title": "A dog making noises and barking.flac",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/A_dog_making_noises_and_barking.flac?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "mime": "audio/x-flac",
+        "mediatype": "AUDIO",
+        "seconds": 14.0478231292517,
+        "licence": "CC BY-SA 3.0",
+        "author": "Amada44",
+        "page": "https://commons.wikimedia.org/wiki/File:A_dog_making_noises_and_barking.flac",
+        "fromPlan": false,
+        "file": "https://upload.wikimedia.org/wikipedia/commons/e/e2/A_dog_making_noises_and_barking.flac?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "start": 8.65,
+        "end": 9.15,
+        "auto": true
+      }
+    ],
+    "cat": [
+      {
+        "title": "Jupey purring.wav",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Jupey_purring.wav?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "mime": "audio/wav",
+        "mediatype": "AUDIO",
+        "seconds": 18.475,
+        "licence": "CC BY-SA 4.0",
+        "author": "Pangea1962",
+        "page": "https://commons.wikimedia.org/wiki/File:Jupey_purring.wav",
+        "fromPlan": true,
+        "file": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Jupey_purring.wav?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "start": 1.9,
+        "end": 7.9,
+        "auto": true
+      },
+      {
+        "title": "Meow normalized.opus",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Meow_normalized.opus?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "mime": "application/ogg",
+        "mediatype": "AUDIO",
+        "seconds": 0.7787916666666667,
+        "licence": "CC BY-SA 3.0",
+        "author": "The original uploader was Dcrosby at English Wikipedia.",
+        "page": "https://commons.wikimedia.org/wiki/File:Meow_normalized.opus",
+        "fromPlan": true,
+        "file": "https://upload.wikimedia.org/wikipedia/commons/5/51/Meow_normalized.opus?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "start": 0,
+        "end": 0.78,
+        "auto": true
+      },
+      {
+        "title": "Felis silvestris catus.ogg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Felis_silvestris_catus.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "mime": "application/ogg",
+        "mediatype": "AUDIO",
+        "seconds": 1.6718367346938776,
+        "licence": "CC BY-SA 2.5",
+        "author": "Jeanot",
+        "page": "https://commons.wikimedia.org/wiki/File:Felis_silvestris_catus.ogg",
+        "fromPlan": false,
+        "file": "https://upload.wikimedia.org/wikipedia/commons/3/31/Felis_silvestris_catus.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "start": 0,
+        "end": 1.67,
+        "auto": true
+      }
+    ],
+    "rabbit": [],
+    "duck": [],
+    "goose": [],
+    "frog": [
+      {
+        "title": "Single Frog Croak.oga",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Single_Frog_Croak.oga?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "mime": "application/ogg",
+        "mediatype": "AUDIO",
+        "seconds": 4.367868480725623,
+        "licence": "CC BY-SA 4.0",
+        "author": "MichaeltheFox8621",
+        "page": "https://commons.wikimedia.org/wiki/File:Single_Frog_Croak.oga",
+        "fromPlan": true,
+        "file": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Single_Frog_Croak.oga?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "start": 0,
+        "end": 0.5,
+        "auto": true
+      },
+      {
+        "title": "Victorian smooth froglet call.ogg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Victorian_smooth_froglet_call.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "mime": "application/ogg",
+        "mediatype": "AUDIO",
+        "seconds": 59.77777777777778,
+        "licence": "CC BY-SA 4.0",
+        "author": "Billinghurst",
+        "page": "https://commons.wikimedia.org/wiki/File:Victorian_smooth_froglet_call.ogg",
+        "fromPlan": false,
+        "file": "https://upload.wikimedia.org/wikipedia/commons/9/91/Victorian_smooth_froglet_call.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "start": 19.36,
+        "end": 19.86,
+        "auto": true
+      }
+    ],
+    "fox": [
+      {
+        "title": "Red Fox (Vulpes vulpes) (W1CDR0001529 BD12).ogg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Red_Fox_%28Vulpes_vulpes%29_%28W1CDR0001529_BD12%29.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "mime": "application/ogg",
+        "mediatype": "AUDIO",
+        "seconds": 42.854943310657596,
+        "licence": "CC BY-SA 4.0",
+        "author": "",
+        "page": "https://commons.wikimedia.org/wiki/File:Red_Fox_(Vulpes_vulpes)_(W1CDR0001529_BD12).ogg",
+        "fromPlan": false,
+        "file": "https://upload.wikimedia.org/wikipedia/commons/7/79/Red_Fox_%28Vulpes_vulpes%29_%28W1CDR0001529_BD12%29.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "start": 22.86,
+        "end": 23.66,
+        "auto": true
+      }
+    ],
+    "deer": [
+      {
+        "title": "Red Deer (Cervus elaphus) (W1CDR0001424 BD3).ogg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Red_Deer_%28Cervus_elaphus%29_%28W1CDR0001424_BD3%29.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "mime": "application/ogg",
+        "mediatype": "AUDIO",
+        "seconds": 47.530861678004534,
+        "licence": "CC BY-SA 4.0",
+        "author": "",
+        "page": "https://commons.wikimedia.org/wiki/File:Red_Deer_(Cervus_elaphus)_(W1CDR0001424_BD3).ogg",
+        "fromPlan": true,
+        "file": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Red_Deer_%28Cervus_elaphus%29_%28W1CDR0001424_BD3%29.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "start": 33.2,
+        "end": 35.6,
+        "auto": true
+      },
+      {
+        "title": "Male roe deer growl.ogg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Male_roe_deer_growl.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "mime": "application/ogg",
+        "mediatype": "AUDIO",
+        "seconds": 24.124875283446713,
+        "licence": "CC BY-SA 4.0",
+        "author": "1bumer",
+        "page": "https://commons.wikimedia.org/wiki/File:Male_roe_deer_growl.ogg",
+        "fromPlan": false,
+        "file": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Male_roe_deer_growl.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "start": 1.08,
+        "end": 1.58,
+        "auto": true
+      }
+    ],
+    "owl": [
+      {
+        "title": "Strix aluco - Tawny Owl XC494801.mp3",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Strix_aluco_-_Tawny_Owl_XC494801.mp3?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "mime": "audio/mpeg",
+        "mediatype": "AUDIO",
+        "seconds": 41.947675,
+        "licence": "CC BY-SA 4.0",
+        "author": "Alvaro Ortiz Troncoso",
+        "page": "https://commons.wikimedia.org/wiki/File:Strix_aluco_-_Tawny_Owl_XC494801.mp3",
+        "fromPlan": false,
+        "file": "https://upload.wikimedia.org/wikipedia/commons/1/16/Strix_aluco_-_Tawny_Owl_XC494801.mp3?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "start": 1.46,
+        "end": 2.66,
+        "auto": true
+      }
+    ],
+    "bear": [
+      {
+        "title": "Bear growl.ogg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Bear_growl.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "mime": "application/ogg",
+        "mediatype": "AUDIO",
+        "seconds": 9.929614512471655,
+        "licence": "CC BY 3.0",
+        "author": "Shizhao",
+        "page": "https://commons.wikimedia.org/wiki/File:Bear_growl.ogg",
+        "fromPlan": true,
+        "file": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Bear_growl.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "start": 0.18,
+        "end": 1,
+        "auto": true
+      }
+    ],
+    "wolf": [
+      {
+        "title": "Wolf howls.ogg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Wolf_howls.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "mime": "application/ogg",
+        "mediatype": "AUDIO",
+        "seconds": 28.32,
+        "licence": "Public domain",
+        "author": "",
+        "page": "https://commons.wikimedia.org/wiki/File:Wolf_howls.ogg",
+        "fromPlan": true,
+        "file": "https://upload.wikimedia.org/wikipedia/commons/8/87/Wolf_howls.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "start": 1,
+        "end": 1.5,
+        "auto": true
+      }
+    ],
+    "elephant": [
+      {
+        "title": "Elephant voice - trumpeting.ogg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Elephant_voice_-_trumpeting.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "mime": "application/ogg",
+        "mediatype": "AUDIO",
+        "seconds": 1.4396371882086167,
+        "licence": "CC0",
+        "author": "தகவலுழவன்",
+        "page": "https://commons.wikimedia.org/wiki/File:Elephant_voice_-_trumpeting.ogg",
+        "fromPlan": true,
+        "file": "https://upload.wikimedia.org/wikipedia/commons/4/40/Elephant_voice_-_trumpeting.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "start": 0,
+        "end": 1.44,
+        "auto": true
+      }
+    ],
+    "lion": [
+      {
+        "title": "Lion raring-sound1TamilNadu178.ogg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Lion_raring-sound1TamilNadu178.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "mime": "application/ogg",
+        "mediatype": "AUDIO",
+        "seconds": 9.148662131519274,
+        "licence": "Public domain",
+        "author": "த*உழவன்",
+        "page": "https://commons.wikimedia.org/wiki/File:Lion_raring-sound1TamilNadu178.ogg",
+        "fromPlan": true,
+        "file": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Lion_raring-sound1TamilNadu178.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "start": 0.4,
+        "end": 2.34,
+        "auto": true
+      }
+    ],
+    "monkey": [],
+    "background": [
+      {
+        "title": "Wood pigeon call 128.ogg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Wood_pigeon_call_128.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "mime": "application/ogg",
+        "mediatype": "AUDIO",
+        "seconds": 3.1346938775510202,
+        "licence": "Public domain",
+        "author": "Crunchysaviour",
+        "page": "https://commons.wikimedia.org/wiki/File:Wood_pigeon_call_128.ogg",
+        "fromPlan": true,
+        "file": "https://upload.wikimedia.org/wikipedia/commons/9/90/Wood_pigeon_call_128.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "start": 0.04,
+        "end": 1.72,
+        "auto": true
+      },
+      {
+        "title": "30goldfinch.ogg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/30goldfinch.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "mime": "application/ogg",
+        "mediatype": "AUDIO",
+        "seconds": 9.346009070294784,
+        "licence": "Public domain",
+        "author": "Fish and Wildlife Service",
+        "page": "https://commons.wikimedia.org/wiki/File:30goldfinch.ogg",
+        "fromPlan": true,
+        "file": "https://upload.wikimedia.org/wikipedia/commons/4/45/30goldfinch.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "start": 0.18,
+        "end": 8.18,
+        "auto": true
+      }
+    ]
+  },
+  "missing": [],
+  "choices": {
+    "https://upload.wikimedia.org/wikipedia/commons/4/48/Mudchute_cow_1.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original": {
+      "keep": true,
+      "veto": false,
+      "start": 0,
+      "end": 2.19,
+      "auto": true
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/a/a5/Single_Cow_Moo.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original": {
+      "keep": true,
+      "veto": false,
+      "start": 0.94,
+      "end": 2.66,
+      "auto": true
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/b/b2/Cow_in_Antefasy.wav?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original": {
+      "veto": true,
+      "keep": false
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/7/7a/Mares-Prefer-the-Voices-of-Highly-Fertile-Stallions-pone.0118468.s004.oga?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original": {
+      "keep": true,
+      "veto": false,
+      "start": 0.72,
+      "end": 2.76,
+      "auto": true
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/9/96/Six_Horses_Galloping_By.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original": {
+      "keep": true,
+      "veto": false,
+      "start": 6.06,
+      "end": 10.06,
+      "auto": true
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/6/6d/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B8%D0%B9_%D0%9E%D1%81%D1%91%D0%BB%2C_%D0%9A%D0%B8%D0%BF%D1%80%D0%B8%D0%BE%D1%82%D1%81%D0%BA%D0%B8%D0%B9.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original": {
+      "keep": true,
+      "veto": false,
+      "start": 5.26,
+      "end": 7.4,
+      "auto": true
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/2/25/157763_felix-blume_a-donkey-is-braying-in-his-enclosure-in-south-of-france.wav?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original": {
+      "veto": true,
+      "keep": false
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/1/13/Sheep_bleating.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original": {
+      "keep": true,
+      "veto": false,
+      "start": 5.56,
+      "end": 7.3,
+      "auto": true
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/2/2a/Mudchute_sheep_1.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original": {
+      "veto": true,
+      "keep": false
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/7/73/Mudchute_pig_1.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original": {
+      "keep": true,
+      "veto": false,
+      "start": 0,
+      "end": 0.36,
+      "auto": true
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/4/4a/Mudchute_pig_2.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original": {
+      "keep": true,
+      "veto": false,
+      "start": 0,
+      "end": 0.33,
+      "auto": true
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/6/65/Mudchute_pig_3.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original": {
+      "keep": true,
+      "veto": false,
+      "start": 0,
+      "end": 0.2,
+      "auto": true
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/a/a2/Barking_of_a_dog.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original": {
+      "keep": true,
+      "veto": false,
+      "start": 0,
+      "end": 2.61,
+      "auto": true
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/5/58/Barking_of_a_dog_2.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original": {
+      "keep": true,
+      "veto": false,
+      "start": 0,
+      "end": 0.5,
+      "auto": true
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/f/f0/Barking_dog_in_Rome.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original": {
+      "veto": true,
+      "keep": false
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/e/e2/A_dog_making_noises_and_barking.flac?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original": {
+      "keep": true,
+      "veto": false,
+      "start": 8.65,
+      "end": 9.15,
+      "auto": true
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/e/ed/Jupey_purring.wav?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original": {
+      "keep": true,
+      "veto": false,
+      "start": 1.9,
+      "end": 7.9,
+      "auto": true
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/5/51/Meow_normalized.opus?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original": {
+      "keep": true,
+      "veto": false,
+      "start": 0,
+      "end": 0.78,
+      "auto": true
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/3/31/Felis_silvestris_catus.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original": {
+      "keep": true,
+      "veto": false,
+      "start": 0,
+      "end": 1.67,
+      "auto": true
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/6/6b/Meow_of_a_pleading_cat.oga?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original": {},
+    "https://upload.wikimedia.org/wikipedia/commons/5/53/Felis_silvestris_catus_meows.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original": {},
+    "https://upload.wikimedia.org/wikipedia/commons/8/81/Meow_of_a_Siamese_cat_-_freemaster2.wav?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original": {
+      "veto": true,
+      "keep": false
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/9/9b/Red_Deer_%28Cervus_elaphus%29_%28W1CDR0001424_BD3%29.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original": {
+      "keep": true,
+      "veto": false,
+      "start": 33.2,
+      "end": 35.6,
+      "auto": true
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/c/c8/Male_roe_deer_growl.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original": {
+      "keep": true,
+      "veto": false,
+      "start": 1.08,
+      "end": 1.58,
+      "auto": true
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/7/7b/Sika_Deer_%28Cervus_nippon%29_%28W1CDR0001426_BD2%29.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original": {
+      "veto": true,
+      "keep": false
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/9/90/Wood_pigeon_call_128.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original": {
+      "keep": true,
+      "veto": false,
+      "start": 0.04,
+      "end": 1.72,
+      "auto": true
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/4/45/30goldfinch.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original": {
+      "keep": true,
+      "veto": false,
+      "start": 0.18,
+      "end": 8.18,
+      "auto": true
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/c/c6/Hummel_bee.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original": {
+      "veto": true,
+      "keep": false
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/d/d6/Chickens_demanding_food.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original": {
+      "start": 2.12,
+      "end": 2.72,
+      "auto": true
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/0/00/Hens_leaving_coop.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original": {
+      "start": 7.56,
+      "end": 8.38,
+      "auto": true
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/9/9f/Single_Frog_Croak.oga?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original": {
+      "start": 0,
+      "end": 0.5,
+      "auto": true
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/9/91/Victorian_smooth_froglet_call.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original": {
+      "start": 19.36,
+      "end": 19.86,
+      "auto": true
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/7/79/Red_Fox_%28Vulpes_vulpes%29_%28W1CDR0001529_BD12%29.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original": {
+      "start": 22.86,
+      "end": 23.66,
+      "auto": true
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/1/16/Strix_aluco_-_Tawny_Owl_XC494801.mp3?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original": {
+      "start": 1.46,
+      "end": 2.66,
+      "auto": true
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/4/4e/Bear_growl.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original": {
+      "start": 0.18,
+      "end": 1,
+      "auto": true
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/8/87/Wolf_howls.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original": {
+      "start": 1,
+      "end": 1.5,
+      "auto": true
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/4/40/Elephant_voice_-_trumpeting.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original": {
+      "start": 0,
+      "end": 1.44,
+      "auto": true
+    },
+    "https://upload.wikimedia.org/wikipedia/commons/7/7d/Lion_raring-sound1TamilNadu178.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original": {
+      "start": 0.4,
+      "end": 2.34,
+      "auto": true
+    }
+  },
+  "notes": {}
+}

@@ -1,0 +1,20 @@
+node_modules
+dist
+downloads
+
+# Godot rebuild
+game/.godot/
+game/shots/
+inbox/
+
+# frozen copy of the island version (commit f71cb36)
+island/
+
+# work files that stay on this laptop
+compare/
+game/assets/animals/quirky/
+public/models/
+public/scenery/
+choices/*.backup-*.json
+Open island.bat
+Open lineup.bat

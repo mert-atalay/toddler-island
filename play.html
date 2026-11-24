@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Toddler island</title>
+  <style>
+    html, body { margin: 0; height: 100%; overflow: hidden; background: #cfe8f5; font: 16px/1.4 system-ui, sans-serif; user-select: none; }
+    #view { position: fixed; inset: 0; width: 100%; height: 100%; display: block; cursor: crosshair; }
+    #start { position: fixed; inset: 0; display: grid; place-items: center; background: radial-gradient(circle at 50% 45%, #fffdf700 0, #fffdf700 30%, #00000040 100%); transition: opacity .6s; }
+    #start.gone { opacity: 0; pointer-events: none; }
+    #play { width: 180px; height: 180px; border-radius: 50%; border: 8px solid #fff; background: #ffb43a; box-shadow: 0 10px 30px #0004; cursor: pointer; display: grid; place-items: center; transition: transform .15s; }
+    #play:hover:not(:disabled) { transform: scale(1.06); }
+    #play:disabled { filter: grayscale(.6) brightness(1.1); cursor: wait; }
+    #play svg { width: 70px; height: 70px; margin-left: 12px; }
+    #loading { position: absolute; top: calc(50% + 120px); left: 0; right: 0; text-align: center; color: #fff; text-shadow: 0 1px 4px #0008; font-size: 18px; }
+    #hint { position: fixed; left: 16px; bottom: 14px; color: #fff; text-shadow: 0 1px 3px #000a; font-size: 13.5px; transition: opacity 2s; pointer-events: none; }
+    #hint.fade { opacity: 0; }
+  </style>
+</head>
+<body>
+  <canvas id="view"></canvas>
+  <div id="start">
+    <button id="play" disabled aria-label="Play"><svg viewBox="0 0 24 24"><path d="M6 4l14 8-14 8z" fill="#fff"/></svg></button>
+    <div id="loading">Loading…</div>
+  </div>
+  <div id="hint">Parent: WASD or arrows to walk, mouse to look (or the controller's sticks). Her button: space, any other key, or A B X Y. Esc frees the mouse; click to look again.</div>
+  <script type="module" src="/src/game/main.ts"></script>
+</body>
+</html>

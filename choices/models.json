@@ -1,0 +1,164 @@
+{
+  "savedAt": "2026-11-14T12:28:37.738Z",
+  "picks": {
+    "cow": {
+      "id": "26zM1outCr",
+      "title": "Cow",
+      "creator": "Quaternius",
+      "licence": "CC0 1.0",
+      "animated": true,
+      "page": "https://poly.pizza/m/26zM1outCr",
+      "file": "/models/candidates/cow/26zM1outCr.glb",
+      "rotation": [
+        0,
+        0,
+        0
+      ]
+    },
+    "horse": {
+      "id": "qvTrSG9pZF",
+      "title": "Horse",
+      "creator": "Quaternius",
+      "licence": "CC0 1.0",
+      "animated": true,
+      "page": "https://poly.pizza/m/qvTrSG9pZF",
+      "file": "/models/candidates/horse/qvTrSG9pZF.glb",
+      "rotation": [
+        0,
+        0,
+        0
+      ]
+    },
+    "donkey": {
+      "id": "qmX6nhnvp7",
+      "title": "Donkey",
+      "creator": "Quaternius",
+      "licence": "CC0 1.0",
+      "animated": true,
+      "page": "https://poly.pizza/m/qmX6nhnvp7",
+      "file": "/models/candidates/donkey/qmX6nhnvp7.glb",
+      "rotation": [
+        0,
+        0,
+        0
+      ]
+    },
+    "sheep": {
+      "id": "quaternius-farm-sheep",
+      "title": "Sheep (farm pack)",
+      "creator": "Quaternius",
+      "licence": "CC0 1.0",
+      "animated": true,
+      "page": "https://quaternius.itch.io/lowpoly-animated-animals",
+      "file": "/models/candidates/sheep/quaternius-farm-sheep.fbx",
+      "rotation": [
+        0,
+        0,
+        0
+      ]
+    },
+    "pig": {
+      "id": "quaternius-farm-pig",
+      "title": "Pig (farm pack)",
+      "creator": "Quaternius",
+      "licence": "CC0 1.0",
+      "animated": true,
+      "page": "https://quaternius.itch.io/lowpoly-animated-animals",
+      "file": "/models/candidates/pig/quaternius-farm-pig.fbx",
+      "rotation": [
+        0,
+        0,
+        0
+      ]
+    },
+    "goat": {
+      "id": "none"
+    },
+    "rooster": {
+      "id": "none"
+    },
+    "hens": {
+      "id": "none"
+    },
+    "dog": {
+      "id": "wcWiuEqwzq",
+      "title": "Husky",
+      "creator": "Quaternius",
+      "licence": "CC0 1.0",
+      "animated": true,
+      "page": "https://poly.pizza/m/wcWiuEqwzq",
+      "file": "/models/candidates/dog/wcWiuEqwzq.glb",
+      "rotation": [
+        0,
+        0,
+        0
+      ]
+    },
+    "cat": {
+      "id": "DJ9rpAhrh3",
+      "title": "Cat",
+      "creator": "J-Toastie",
+      "licence": "CC-BY 3.0",
+      "animated": true,
+      "page": "https://poly.pizza/m/DJ9rpAhrh3",
+      "file": "/models/candidates/cat/DJ9rpAhrh3.glb",
+      "rotation": [
+        0,
+        0,
+        0
+      ]
+    },
+    "rabbit": {
+      "id": "none"
+    },
+    "duck": {
+      "id": "none"
+    },
+    "goose": {
+      "id": "none"
+    },
+    "frog": {
+      "id": "none"
+    },
+    "fox": {
+      "id": "none"
+    },
+    "deer": {
+      "id": "tQdzbZ1Cmw",
+      "title": "Stag",
+      "creator": "Quaternius",
+      "licence": "CC0 1.0",
+      "animated": true,
+      "page": "https://poly.pizza/m/tQdzbZ1Cmw",
+      "file": "/models/candidates/deer/tQdzbZ1Cmw.glb",
+      "rotation": [
+        0,
+        0,
+        0
+      ]
+    },
+    "owl": {
+      "id": "none"
+    },
+    "bear": {
+      "id": "none"
+    },
+    "wolf": {
+      "id": "none"
+    },
+    "elephant": {
+      "id": "none"
+    },
+    "lion": {
+      "id": "none"
+    },
+    "giraffe": {
+      "id": "none"
+    },
+    "monkey": {
+      "id": "none"
+    }
+  },
+  "notes": "i dont want to ones that is not animated or doesnt look realistic so i select none of these ",
+  "missing": []
+}

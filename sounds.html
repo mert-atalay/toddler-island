@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Sound picker</title>
+  <style>
+    body { margin: 0; font: 14px/1.45 system-ui, sans-serif; background: #fdf6e3; color: #333; }
+    header { position: sticky; top: 0; z-index: 2; background: #fffdf7; box-shadow: 0 1px 6px #0002; padding: 10px 16px; display: flex; gap: 12px; align-items: center; flex-wrap: wrap; }
+    header h1 { font-size: 17px; margin: 0 8px 0 0; }
+    header p { margin: 0; color: #666; font-size: 12.5px; flex: 1 1 360px; }
+    main { max-width: 980px; margin: 0 auto; padding: 8px 16px 80px; }
+    h2 { font-size: 12px; text-transform: uppercase; letter-spacing: .06em; color: #8a6d3b; margin: 26px 0 6px; }
+    .animal { background: #fff; border-radius: 12px; box-shadow: 0 1px 4px #0001; padding: 10px 14px; margin: 10px 0; }
+    .animal > b { font-size: 16px; }
+    .animal .count { color: #888; font-size: 12px; margin-left: 6px; }
+    .clip { display: grid; grid-template-columns: 40px 1fr auto; gap: 10px; align-items: center; padding: 8px 0; border-top: 1px solid #f1ece0; }
+    .clip:first-of-type { border-top: 0; }
+    .clip.vetoed { opacity: .45; }
+    .clip.kept canvas { outline: 2px solid #2a6f4e; }
+    .play { width: 38px; height: 38px; border-radius: 50%; border: 0; background: #2a6f4e; color: #fff; font-size: 15px; cursor: pointer; }
+    .meta { font-size: 12px; color: #777; margin-bottom: 3px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+    .meta a { color: #777; }
+    .meta .plan { color: #8a6d3b; font-weight: 600; }
+    canvas { width: 100%; height: 56px; display: block; background: #f7f4ec; border-radius: 6px; cursor: crosshair; }
+    .btns { display: flex; flex-direction: column; gap: 4px; }
+    .btns button { font: inherit; font-size: 12.5px; padding: 4px 10px; border-radius: 6px; border: 1px solid #ccc; background: #fff; cursor: pointer; white-space: nowrap; }
+    .btns button.on.keep { background: #2a6f4e; border-color: #2a6f4e; color: #fff; }
+    .btns button.on.veto { background: #a33; border-color: #a33; color: #fff; }
+    .trim { font-size: 11.5px; color: #2a6f4e; margin-top: 2px; min-height: 16px; }
+    .err { color: #a33; font-size: 12px; }
+    #save { font: inherit; padding: 7px 14px; border-radius: 8px; border: 1px solid #2a6f4e; background: #2a6f4e; color: #fff; cursor: pointer; }
+    #status { font-size: 12px; color: #666; }
+    textarea { width: 100%; box-sizing: border-box; font: inherit; min-height: 34px; margin-top: 6px; border: 1px solid #e6e0d0; border-radius: 6px; padding: 4px 6px; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Sound picker</h1>
+    <p>Press ▶ to listen. Drag across a waveform to mark the bit to keep (0.5 to 3 seconds is ideal); ▶ then plays just that bit. Keep up to three per animal, veto anything scary. Names in brown came from the plan.</p>
+    <button id="save">Save choices</button><span id="status"></span>
+  </header>
+  <main id="list"></main>
+  <script type="module" src="/src/sounds.ts"></script>
+</body>
+</html>
