@@ -1,6 +1,6 @@
 # Toddler Island 🌙
 
-**A 3D world I made for my two-year-old daughter, Mercan.**
+**A 3D world I made for my two-year-old daughter.**
 
 She can't read yet, and most games are too fast, too loud or too full of menus for a toddler. So I built
 one around how she actually plays: she sits on my lap, I steer with an Xbox controller, and she presses
@@ -8,10 +8,10 @@ the big button whenever something lights up. Nothing can go wrong, nothing ever 
 press does something kind.
 
 <p align="center">
-  <img src="docs/screenshots/moonshine.jpg" alt="On the Moon, golden letters read: You are my moonshine, Mercan" width="860">
+  <img src="docs/screenshots/lake.jpg" alt="The lake in the valley" width="860">
 </p>
 
-When she takes ten steps on the Moon, the words *"You are my moonshine, Mercan"* glow in letter by letter
+When she takes ten steps on the Moon, the words *"You are my moonshine"* and her name glow in letter by letter
 over a little music-box tune, and a photo of the moment is saved for us to keep.
 
 ---
@@ -20,7 +20,7 @@ over a little music-box tune, and a photo of the moment is saved for us to keep.
 
 <table>
   <tr>
-    <td><img src="docs/screenshots/start.jpg" alt="Mercan and her dog on the path at the start"></td>
+    <td><img src="docs/screenshots/start.jpg" alt="A little girl and her dog on the path at the start"></td>
     <td><img src="docs/screenshots/island-from-above.jpg" alt="The whole valley from above"></td>
   </tr>
   <tr>
@@ -111,7 +111,7 @@ To use your own child's name in the Moon message, change `child_name` in the sav
   a soak test that watches every animal for getting stuck, and a speed check (around 100 fps at
   1080p on a laptop RTX 3050).
 - I built it together with [Claude Code](https://claude.com/claude-code), Anthropic's AI coding
-  assistant: I designed the game and decided what Mercan needed, and we wrote and tested the code
+  assistant: I designed the game and decided what my daughter needed, and we wrote and tested the code
   side by side.
 
 ## Credits
@@ -125,4 +125,4 @@ The code is MIT-licensed ([LICENSE](LICENSE)). The assets keep their own licence
 
 ---
 
-*Made with love for Mercan. 💛*
+*Made with love for my daughter. 💛*
